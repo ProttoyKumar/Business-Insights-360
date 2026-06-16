@@ -5,16 +5,10 @@ A comprehensive Power BI analytics solution that integrates finance, sales, mark
 
 ---
 
-### 📊 1. Financial View
+### 📈 1. Financial View
 
 *   **Objective:** Enable dynamic P&L analysis across customers, products, countries, and time periods. 
-*   **Key Metrics:** 
-    *   Net Sales
-    *   Gross Margin
-    *   Net Profit
-    *   Profit & Loss (P&L) Statement
-    *   Year-over-Year (YoY) Analysis
-    *   Profitability by Customer and Product
+*   **Key Metrics:** Net Sales, Gross Margin, Net Profit, Profit & Loss (P&L) Statement, Year-over-Year (YoY) Analysis, Profitability by Customer and Product
 *   **Key Features:** 
     *   **Dynamic P&L statement layouts** for flexible reporting.
     *   **Trend analysis** over defined fiscal periods.
