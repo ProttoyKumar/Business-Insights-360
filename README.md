@@ -1,6 +1,7 @@
 # Business Intelligence 360 
 
-## Project Overview A comprehensive Power BI analytics solution that integrates finance, sales, marketing, and supply chain analytics to support data-driven decision-making. The solution consists of four interactive dashboards that provide a 360-degree view of business performance, enabling stakeholders to monitor KPIs, identify trends, and make data-driven decisions.
+## Project Overview
+A comprehensive Power BI analytics solution that integrates finance, sales, marketing, and supply chain analytics to support data-driven decision-making. The solution consists of four interactive dashboards that provide a 360-degree view of business performance, enabling stakeholders to monitor KPIs, identify trends, and make data-driven decisions.
 
 ------------------------------------------------------------------------
 
