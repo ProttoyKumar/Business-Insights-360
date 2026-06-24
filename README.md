@@ -5,7 +5,7 @@ A comprehensive Power BI analytics solution that integrates finance, sales, mark
 
 ------------------------------------------------------------------------
 
-### 📈 **1. Financial View**
+### **1. Financial View**
 
 🎯 **Objective:**\
 Enable dynamic **P&L analysis** across **customers, products, countries,
@@ -24,7 +24,7 @@ and Product**
 
 ------------------------------------------------------------------------
 
-### 💰 **2. Sales View**
+### **2. Sales View**
 
 🎯 **Objective:**\
 Analyze **customer performance** through **profitability and growth
@@ -42,7 +42,7 @@ Analysis**
 
 ------------------------------------------------------------------------
 
-### 💰 **3. Marketing View**
+### **3. Marketing View**
 
 🎯 **Objective:**\
 Analyze **product performance** through **profitability and growth
