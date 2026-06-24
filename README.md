@@ -17,11 +17,10 @@ Statement \| Year-over-Year (YoY) Analysis \| Profitability by Customer
 and Product**
 
 ✨ **Key Features:**\
-🔹 **Dynamic P&L statement layouts** for flexible reporting.\
-🔹 **Trend analysis** over defined fiscal periods.\
-🔹 Detailed **customer & product performance analysis** by **P&L
-values**.\
-🔹 Compare **P&L values** over consecutive years.
+🔹 Perform interactive Profit & Loss (P&L) statement analysis with dynamic filtering across fiscal years, regions, customers, and product segments\
+🔹 Conduct time-series trend analysis across defined fiscal periods to monitor financial performance over time.\
+🔹 Add detailed customer & product performance analysis using key P&L metrics.\
+🔹 Conduct Year-Over-Year (YOY) financial performance comparisons.
 
 ------------------------------------------------------------------------
 
@@ -36,6 +35,7 @@ insights**.
 Analysis**
 
 ✨ **Key Features:**\
-🔹 Detailed **customer & product performance analysis**.\
-🔹 Monitor **sales trends and growth opportunities**.\
-🔹 Detailed **Regional Sales Analysis**.
+🔹 Conduct detailed analysis of customer & product performance to identify top-performing customers, products, and their contributions to overall revenue and     profitability.\
+🔹 Include interactive filters and performance metrics to monitor sales trends and identify growth opportunities.\
+🔹 Perform comprehensive regional sales analysis.\
+🔹 Analyze unit economics and time-based performance trends. 
