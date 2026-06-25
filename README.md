@@ -5,7 +5,7 @@ A comprehensive Power BI analytics solution that integrates finance, sales, mark
 
 ------------------------------------------------------------------------
 
-### **1. Financial View**
+### **1. Finance View**
 
 🎯 **Objective:**\
 Enable dynamic **P&L analysis** across **customers, products, countries,
@@ -17,7 +17,7 @@ Statement \| Year-over-Year (YoY) Analysis \| Profitability by Customer
 and Product**
 
 ✨ **Key Features:**\
-🔹 Perform interactive Profit & Loss (P&L) statement analysis with dynamic filtering across fiscal years, regions, customers, and product segments\
+🔹 Perform interactive Profit & Loss (P&L) statement analysis with dynamic filtering across fiscal years, regions, customers, and product segments.\
 🔹 Conduct time-series trend analysis across defined fiscal periods to monitor financial performance over time.\
 🔹 Add detailed customer & product performance analysis using key P&L metrics.\
 🔹 Conduct Year-Over-Year (YoY) financial performance comparisons.
@@ -57,3 +57,43 @@ Analysis**
 🔹 Conduct a thorough analysis of regional and market sales across various product segments.\
 🔹 Analyze unit economics by examining Net Sales, Operational expenses, Gross Margin, and their impact on overall profitability.
 
+------------------------------------------------------------------------
+
+### **3. Supply Chain View**
+
+🎯 **Objective:**\
+Analyze **forecast performance** across customers, products, and time periods.
+
+📊 **Key Metrics:**\
+**Forecast Accuracy (%) \| Net error**
+
+✨ **Key Features:**\
+🔹 Evaluate forecast accuracy by comparing estimated demand and actual sales performance.\  
+🔹 Analyze forecasting accuracy across different customer segments.\
+🔹 Plot forecast accuracy and net error trends over time to identify performance patterns.\
+🔹 Analyze forecasting accuracy across various customer segments and categories.
+
+------------------------------------------------------------------------
+
+## Repository Structure
+
+```text
+Business-Insights-360/
+│
+├── screenshots/
+│   ├── Home Page.png
+│   ├── finance_view.png
+│   ├── marketing_view.png
+│   ├── sales_view.png
+│   └── supply_chain_view.png
+│
+└── README.md
+```
+
+### Repository Contents
+- **README.md** – Project overview, objectives, KPIs, dashboard features, and insights.
+- **screenshots/** – Contains screenshots of the Home Page and all dashboard views.
+
+## Author
+
+**Prottoy**  
