@@ -16,7 +16,7 @@ and time periods**.
 Statement \| Year-over-Year (YoY) Analysis \| Profitability by Customer
 and Product**
 
-✨ **Key Features:**\
+✨ **Key Features:**
 - Perform interactive Profit & Loss (P&L) statement analysis with dynamic filtering across fiscal years, regions, customers, and product segments.
 - Conduct time-series trend analysis across defined fiscal periods to monitor financial performance over time.
 - Add detailed customer and product performance analysis using key P&L metrics.
@@ -34,7 +34,7 @@ insights**.
 **Customer Performance \| Regional Sales
 Analysis**
 
-✨ **Key Features:**\
+✨ **Key Features:**
 - Conduct detailed customer performance analysis by evaluating Net Sales and Gross Margin across customer segments.
 - Analyze sales performance across regions, markets, customers, and product categories using interactive filtering.
 - Perform regional sales analysis to identify high-performing markets and key revenue contributors.
@@ -52,14 +52,14 @@ insights**.
 **Product Performance \| Regional Sales
 Analysis**
 
-✨ **Key Features:**\
+✨ **Key Features:**
 - Conduct detailed product performance analysis by evaluating Net Sales, Gross Margin, and profitability across product segments.
 - Analyze regional and market sales performance across various product segments.
 - Assess unit economics by examining Net Sales, Operational Expenses, and Gross Margin to understand their impact on overall profitability.
 
 ------------------------------------------------------------------------
 
-### **3. Supply Chain View**
+### **4. Supply Chain View**
 
 🎯 **Objective:**\
 Analyze **forecast performance** across customers, products, and time periods.
@@ -67,7 +67,7 @@ Analyze **forecast performance** across customers, products, and time periods.
 📊 **Key Metrics:**\
 **Forecast Accuracy (%) \| Net error**
 
-✨ **Key Features:**\
+✨ **Key Features:**
 - Evaluate forecast accuracy by comparing estimated demand with actual sales performance.
 - Analyze forecasting accuracy across customer segments.
 - Monitor forecast accuracy and net error trends over time to identify performance patterns.
