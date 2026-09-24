@@ -1,7 +1,10 @@
 # Business Insights 360 
 
 ## Project Overview
-A detailed analysis of business data using Power BI, including finance, sales, marketing, and supply chain analysis, to support data-driven decision-making. The solution consists of five interactive dashboards that provide a 360-degree view of business performance, enabling stakeholders to monitor KPIs, identify trends, and make data-driven decisions. It includes an executive view dashboard for overall performance analysis tailored to decision-makers.
+A detailed analysis of business data using Power BI, including finance, sales, marketing, and supply chain analysis, to support data-driven decision-making. The solution consists of five interactive dashboards that provide a 360-degree view of business performance, enabling stakeholders to monitor KPIs, identify trends, and make data-driven decisions. It includes an executive view dashboard for overall performance analysis tailored to decision-makers. 
+
+Live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYTZlNTQ0NDgtMmM0Zi00ZDYxLTk1NTktMTMxODcyZWM2Y2M0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ------------------------------------------------------------------------
 ## 📸 Dashboard Preview
